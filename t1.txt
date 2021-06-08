@@ -1,1 +1,11 @@
-first file v.01
+ Volume in drive C is Windows
+ Volume Serial Number is FE94-D1C5
+
+ Directory of C:\demo1
+
+08-06-2021  21:21    <DIR>          .
+08-06-2021  21:21    <DIR>          ..
+08-06-2021  21:26                 0 t1.txt
+08-06-2021  21:17                18 t2.txt
+               2 File(s)             18 bytes
+               2 Dir(s)  51,894,280,192 bytes free
